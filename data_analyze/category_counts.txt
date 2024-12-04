@@ -1,0 +1,2 @@
+Số lượng ham: 16247
+Số lượng spam: 8155
